@@ -1,3 +1,3 @@
-# IrohTwitterBot
+# spscriptbot
 
-A Twitter bot which tweets a quote by Uncle Iroh every day. Why? Just for fun! 
+a twitter bot that posts lines from south park scripts in chronological order every hour.
